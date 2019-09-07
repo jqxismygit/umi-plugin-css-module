@@ -1,4 +1,4 @@
-# umi-plugin-umi-plugin-css-module
+# umi-plugin-css-module
 
 [![NPM version](https://img.shields.io/npm/v/umi-plugin-umi-plugin-css-module.svg?style=flat)](https://npmjs.org/package/umi-plugin-umi-plugin-css-module)
 [![NPM downloads](http://img.shields.io/npm/dm/umi-plugin-umi-plugin-css-module.svg?style=flat)](https://npmjs.org/package/umi-plugin-umi-plugin-css-module)
