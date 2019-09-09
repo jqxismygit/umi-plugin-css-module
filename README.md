@@ -12,7 +12,7 @@ Configure in `.umirc.js`,
 ```js
 export default {
   plugins: [
-      ['umi-plugin-css-modules', {
+      ['umi-plugin-css-module', {
         cssModule: {
           include: /\.module\.css$/
         },
