@@ -5,5 +5,5 @@
 /example/node_modules
 /example/pages/.umi
 /example/pages/.umi-production
-/lib
+#/lib
 .DS_Store
